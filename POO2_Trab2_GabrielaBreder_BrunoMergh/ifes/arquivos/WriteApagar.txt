@@ -1,0 +1,4 @@
+Fornecedor | quantia a pagar
+1          | 11.43
+2          | 9.48
+3          | 2.7600000000000002
